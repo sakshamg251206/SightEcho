@@ -1,0 +1,1 @@
+SightEcho runs Gemma 4 entirely on your phone — no internet, no subscription — so a blind person can hold up their camera anywhere in the world and hear exactly what's in front of them, in their own language, in under half a second.
