@@ -28,7 +28,7 @@
     "check": "npm run lint && npm run format:check && npm run typecheck && npm run test && npm run build"
   },
   "dependencies": {
-    "@mediapipe/tasks-genai": "^0.10.29",
+    "@mediapipe/tasks-genai": "^0.10.30",
     "react": "^19.3.0",
     "react-dom": "^19.3.0"
   },
